@@ -6,6 +6,10 @@ features:
 - run against the Leetcode problems, which gives more confidence.
 
 ## What's the progress
-- Topology Sort List
-- Prefix Sum Array
-- Top K Frequent List
+- Graph
+  - topology sort
+  - find the cutting edge
+- Array
+  - Prefix Sum Array
+- Min/Max Heap
+  - Top K frequency elements
