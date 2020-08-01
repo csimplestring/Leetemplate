@@ -7,9 +7,9 @@ features:
 
 ## What's the progress
 - Graph
-  - topology sort
-  - find the cutting edge
+  - Topology Sort
+  - Cutting Edge
 - Array
   - Prefix Sum Array
 - Min/Max Heap
-  - Top K frequency elements
+  - Top K Frequency List
