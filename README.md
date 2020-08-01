@@ -13,3 +13,5 @@ features:
   - Prefix Sum Array
 - Min/Max Heap
   - Top K Frequency List
+- Tree
+  - Binary Tree
