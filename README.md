@@ -16,7 +16,7 @@ Featured by:
 - with generalised templates for easier usage
 - all are examined by Leetcode problems, which gives more confidence
 
-## What's the progress
+## What are done
 - Graph
   - Topology Sort
   - Cutting Edge
