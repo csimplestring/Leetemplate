@@ -1,4 +1,4 @@
-package com.csimplestring.lessknown;
+package com.csimplestring.algo.array;
 
 /**
  * PrefixSumArray offers some static methods to calculate the prefix sum array.

@@ -1,4 +1,4 @@
-package com.csimplestring.lessknown;
+package com.csimplestring.algo.graph;
 
 import java.util.*;
 
