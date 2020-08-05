@@ -21,6 +21,7 @@ Featured by:
   - Topology Sort
   - Cutting Edge
 - Array
+  - Binary Search Array
   - Prefix Sum Array
 - Min/Max Heap
   - Top K Frequency List
