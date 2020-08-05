@@ -27,3 +27,5 @@ Featured by:
 - Tree
   - Binary Tree
     - deserialize/serialize 
+- Union Find
+  - Generic Union Find Set
