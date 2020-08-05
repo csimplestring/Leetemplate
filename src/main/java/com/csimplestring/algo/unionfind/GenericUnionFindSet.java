@@ -8,7 +8,7 @@ import java.util.Map;
  * Union Find Set is a data structure that tracks a set of elements partitioned into a number of disjoint (non-overlapping) subsets.
  * This implementation supports a more generic typed elements.
  * <p>
- * If you are looking for a performant solution, maybe look at UnionFindIntegerSet for integer only.
+ * If you are looking for a performant solution, maybe look at {@link IntUnionFindSet} for integer only.
  *
  * @param <T>
  * @see https://en.wikipedia.org/wiki/Disjoint-set_data_structure

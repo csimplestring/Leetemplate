@@ -29,3 +29,4 @@ Featured by:
     - deserialize/serialize 
 - Union Find
   - Generic Union Find Set
+  - Integer Union Find Set
