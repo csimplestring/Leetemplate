@@ -31,3 +31,5 @@ Featured by:
 - Union Find
   - Generic Union Find Set
   - Integer Union Find Set
+- String
+  - Trie
