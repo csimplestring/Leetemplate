@@ -25,6 +25,8 @@ Featured by:
   - Prefix Sum Array
 - Min/Max Heap
   - Top K Frequency List
+- Queue
+  - Monotonic Queue
 - Tree
   - Binary Tree
     - deserialize/serialize 
